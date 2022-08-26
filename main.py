@@ -8,7 +8,7 @@ today = datetime.today()
 yesterday = today - timedelta(days=1)
 yesterday_day = (yesterday.day)
 
-MY_EMAIL = 'josephdeancardoza@gmail.com'
+MY_EMAIL = MY_EMAIL
 MY_PASSWORD = SECRET
 URL = "http://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=40&SpeciesID=420"
 
